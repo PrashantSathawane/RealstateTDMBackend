@@ -1,0 +1,150 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "image": "./PropertyImages/property_1.jpg",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "status": "For Sale",
+            "area": "1500 SQ FT",
+            "type": "Apartment"
+        },
+        {
+            "id": 2,
+            "image": "./PropertyImages/property_2.jpg",
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "status": "For Sale",
+            "area": "2000 SQ FT",
+            "type": "House"
+        },
+        {
+            "id": 3,
+            "image": "./PropertyImages/property_3.jpg",
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "status": "Under Construction",
+            "area": "1200 SQ FT",
+            "type": "Studio"
+        },
+        {
+            "id": 4,
+            "image": "./PropertyImages/property_4.jpg",
+            "bedrooms": 5,
+            "bathrooms": 4,
+            "status": "For Sale",
+            "area": "3000 SQ FT",
+            "type": "Villa"
+        },
+        {
+            "id": 5,
+            "image": "./PropertyImages/property_5.jpg",
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "status": "For Rent",
+            "area": "1000 SQ FT",
+            "type": "Apartment"
+        },
+        {
+            "id": 6,
+            "image": "./PropertyImages/property_6.jpg",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "status": "For Sale",
+            "area": "1800 SQ FT",
+            "type": "Townhouse"
+        }
+    ],
+    "PricingProperties": [
+        {
+            "id": 1,
+            "image": "./PropertyImages/property_1.jpg",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "status": "For Sale",
+            "area": "1500 SQ FT",
+            "type": "Apartment"
+        },
+        {
+            "id": 2,
+            "image": "./PropertyImages/property_2.jpg",
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "status": "For Sale",
+            "area": "2000 SQ FT",
+            "type": "House"
+        },
+        {
+            "id": 3,
+            "image": "./PropertyImages/property_3.jpg",
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "status": "Under Construction",
+            "area": "1200 SQ FT",
+            "type": "Studio"
+        },
+        {
+            "id": 4,
+            "image": "./PropertyImages/property_4.jpg",
+            "bedrooms": 5,
+            "bathrooms": 4,
+            "status": "For Sale",
+            "area": "3000 SQ FT",
+            "type": "Villa"
+        },
+        {
+            "id": 5,
+            "image": "./PropertyImages/property_5.jpg",
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "status": "For Rent",
+            "area": "1000 SQ FT",
+            "type": "Apartment"
+        },
+        {
+            "id": 6,
+            "image": "./PropertyImages/property_6.jpg",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "status": "For Sale",
+            "area": "1800 SQ FT",
+            "type": "Townhouse"
+        },
+        {
+            "id": 7,
+            "image": "./PropertyImages/property_1.jpg",
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "status": "Under Construction",
+            "area": "2200 SQ FT",
+            "type": "House"
+        },
+        {
+            "id": 8,
+            "image": "./PropertyImages/property_2.jpg",
+            "bedrooms": 2,
+            "bathrooms": 2,
+            "status": "For Sale",
+            "area": "1300 SQ FT",
+            "type": "Condo"
+        },
+        {
+            "id": 9,
+            "image": "./PropertyImages/property_3.jpg",
+            "bedrooms": 3,
+            "bathrooms": 3,
+            "status": "For Sale",
+            "area": "1600 SQ FT",
+            "type": "Apartment"
+        },
+        {
+            "id": 10,
+            "image": "./PropertyImages/property_4.jpg",
+            "bedrooms": 1,
+            "bathrooms": 1,
+            "status": "For Rent",
+            "area": "800 SQ FT",
+            "type": "Studio"
+        }
+    ]
+}

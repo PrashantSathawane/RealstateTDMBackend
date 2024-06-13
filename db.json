@@ -136,15 +136,6 @@
             "status": "For Sale",
             "area": "1600 SQ FT",
             "type": "Apartment"
-        },
-        {
-            "id": 10,
-            "image": "./PropertyImages/property_4.jpg",
-            "bedrooms": 1,
-            "bathrooms": 1,
-            "status": "For Rent",
-            "area": "800 SQ FT",
-            "type": "Studio"
         }
     ]
 }
